@@ -1,6 +1,6 @@
 {
   "updated": "2026-08-15",
-  "updated_at": "8/15 21:43",
+  "updated_at": "8/15 21:47",
   "events": [
     {
       "id": "sss2026",
@@ -222,6 +222,18 @@
       "subject": "技術・家庭"
     },
     {
+      "id": "csj-kinki-hs",
+      "date": "2026/12月下旬（要確認）",
+      "name": "第43回 高等学校・中学校化学研究発表会",
+      "venue": "大阪（例年 大阪大学 豊中キャンパス）",
+      "grade": "中・高",
+      "subject": "化学",
+      "booth": "要確認",
+      "status": "未問合せ／中高生のクラブ研究発表が中心",
+      "contact": "日本化学会 近畿支部／化学教育協議会",
+      "url": "https://kinki.chemistry.or.jp/jhapyo.html"
+    },
+    {
       "id": "monodukuri-fair",
       "date": "2027/1月（要確認）",
       "name": "全国中学生創造ものづくり教育フェア",
@@ -270,6 +282,18 @@
       "subject": "情報"
     },
     {
+      "id": "kosen-fes-2027",
+      "date": "2027/6-7月（予定）",
+      "name": "KOSEN FES 国公私立高専合同説明会",
+      "venue": "東京・大阪の2会場",
+      "grade": "小・中",
+      "subject": "科学全般",
+      "booth": "要確認",
+      "status": "未問合せ／来場は小中学生と保護者・科学教室あり",
+      "contact": "国立高等専門学校機構",
+      "url": "https://www.kosen-k.go.jp/hj_1-22event/kosenfes2026"
+    },
+    {
       "id": "kansai-ict-2027",
       "date": "2027/7-8月（予定）",
       "name": "第12回 関西教育ICT展",
@@ -316,6 +340,30 @@
       "url": "https://www.sme.or.jp/conference/national/",
       "grade": "小・中・高",
       "subject": "算数・数学"
+    },
+    {
+      "id": "kosen-forum-2027",
+      "date": "2027/8月下旬（予定）",
+      "name": "全国高専フォーラム",
+      "venue": "未定（毎年持ち回り）",
+      "grade": "高専",
+      "subject": "技術・情報",
+      "booth": "要確認",
+      "status": "未問合せ／高専教職員が一堂に会する",
+      "contact": "国立高等専門学校機構",
+      "url": "https://www.kosen-k.go.jp/company/joho_symposium"
+    },
+    {
+      "id": "pesj-national",
+      "date": "2027/8月（予定）",
+      "name": "日本物理教育学会 物理教育研究大会",
+      "venue": "未定",
+      "grade": "中・高",
+      "subject": "物理",
+      "booth": "要確認（支部行事に機器展示あり）",
+      "status": "未問合せ",
+      "contact": "日本物理教育学会",
+      "url": "https://www.pesj.jp/"
     },
     {
       "id": "fit-2027",
