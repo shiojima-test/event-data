@@ -1,6 +1,6 @@
 {
   "updated": "2026-08-15",
-  "updated_at": "8/15 21:55",
+  "updated_at": "8/15 21:57",
   "events": [
     {
       "id": "sss2026",
@@ -210,6 +210,18 @@
       "subject": "算数・数学"
     },
     {
+      "id": "kosen-procon-37",
+      "date": "2026/10月（要確認）",
+      "name": "第37回 全国高専プログラミングコンテスト（香川・高松大会）",
+      "venue": "香川県高松市",
+      "grade": "高専",
+      "subject": "情報・プログラミング",
+      "booth": "協賛制（企業賞あり）",
+      "status": "未問合せ／協賛企業は企業賞を出せる",
+      "contact": "全国高専プログラミングコンテスト委員会",
+      "url": "https://www.procon.gr.jp/?page_id=1161"
+    },
+    {
       "id": "kagaku-hitachinaka-2026",
       "date": "2026/11/7-8",
       "name": "青少年のための科学の祭典 ひたちなか大会",
@@ -296,6 +308,18 @@
       "url": "https://zenkoukyo.or.jp/index_contest/mono_index/"
     },
     {
+      "id": "u22-procon-2026",
+      "date": "2026/11/29",
+      "name": "U-22 プログラミング・コンテスト2026 最終審査会",
+      "venue": "昭和医科大学 上條記念館（東京）",
+      "grade": "小・中・高・大",
+      "subject": "情報・プログラミング",
+      "booth": "協賛制",
+      "status": "未問合せ／協賛募集は1月開始・本年は締切の可能性",
+      "contact": "一般社団法人ソフトウェア協会（SAJ）",
+      "url": "https://u22procon.com/"
+    },
+    {
       "id": "csj-kinki-hs",
       "date": "2026/12月下旬（要確認）",
       "name": "第43回 高等学校・中学校化学研究発表会",
@@ -366,6 +390,19 @@
       "status": "未問合せ／来場は小中学生と保護者・科学教室あり",
       "contact": "国立高等専門学校機構",
       "url": "https://www.kosen-k.go.jp/hj_1-22event/kosenfes2026"
+    },
+    {
+      "id": "wro-japan-2027",
+      "date": "2027/6-8月（予選会）",
+      "name": "WRO Japan 地区予選会・決勝大会",
+      "venue": "全国40か所の予選会＋決勝大会",
+      "grade": "小・中・高",
+      "subject": "ロボット・STEAM",
+      "booth": "スポンサー制（Platinum〜Pearlのランク制）",
+      "status": "未問合せ／予選会単位のスポンサーなら小額で可能",
+      "contact": "NPO法人WRO Japan／各予選会実行委員会",
+      "url": "https://www.wroj.org/",
+      "memo": "全国2,000チーム5,000名規模。山梨・近隣の予選会に絞る案"
     },
     {
       "id": "kansai-ict-2027",
