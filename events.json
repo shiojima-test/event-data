@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14",
+  "updated": "2026-08-15",
   "events": [
     {
       "id": "sss2026",
@@ -17,8 +17,8 @@
       "name": "Educational Solution Seminar 秋葉原",
       "venue": "秋葉原UDX アキバスクエア",
       "booth": "あり",
-      "status": "今年は間に合わず／見学は無料",
-      "contact": "日本教育情報化振興会（JAPET&CEC）",
+      "status": "出展企業は確定済／見学のみ（参加無料）",
+      "contact": "JAPET&CEC 青木様",
       "url": "https://www.japet.or.jp/national-semi/main/"
     },
     {
@@ -26,9 +26,9 @@
       "date": "2026/8/29-30",
       "name": "日本産業技術教育学会 第69回全国大会",
       "venue": "宮城教育大学 青葉山キャンパス",
-      "booth": "あり",
-      "status": "広告掲載済／企業展示を確認中",
-      "contact": "日本産業技術教育学会 事務局",
+      "booth": "あり（広告掲載企業は出展料無料）",
+      "status": "広告申込済／8/17振込予定・企業展示を照会中",
+      "contact": "鳴門教育大学 長井映雄様 akionagai@naruto-u.ac.jp",
       "url": "https://sites.google.com/jste.jp/2026/top"
     },
     {
@@ -36,17 +36,37 @@
       "date": "2026/9/12-14",
       "name": "教育システム情報学会 第51回全国大会",
       "venue": "徳島大学 常三島キャンパス",
-      "booth": "あり",
+      "booth": "あり（10万円／賛助会員7万円）",
       "status": "締切済（7/10）／見学のみ",
       "contact": "jsise-desk@conf.bunken.co.jp",
       "url": "https://taikai2026.jsise.org/sponsor"
+    },
+    {
+      "id": "ciec-kyushu-2026",
+      "date": "2026/9/12-13",
+      "name": "2026九州PCカンファレンス",
+      "venue": "西南学院大学（福岡）",
+      "booth": "要確認",
+      "status": "8/14に照会メール送信／返答待ち",
+      "contact": "CIEC事務局 pcc-info@ciec.or.jp",
+      "url": "https://coop.kyushu-bauc.or.jp/pcc2026/"
+    },
+    {
+      "id": "sciagora-2026",
+      "date": "2026/9/12-13",
+      "name": "サイエンスアゴラ2026",
+      "venue": "東京・お台場",
+      "booth": "あり（出展企画を公募）",
+      "status": "本年の募集は5/14で終了／次年度狙い",
+      "contact": "科学技術振興機構（JST）",
+      "url": "https://www.jst.go.jp/cpse/ssh/news/others.html"
     },
     {
       "id": "jset-2026a",
       "date": "2026/9/26-27",
       "name": "日本教育工学会 2026年秋季全国大会",
       "venue": "札幌市教育文化会館",
-      "booth": "あり",
+      "booth": "あり（通年募集）",
       "status": "出展できる可能性あり／要問合せ",
       "contact": "日本教育工学会 大会事務局",
       "url": "https://www.jset.gr.jp/taikai49/"
@@ -56,9 +76,9 @@
       "date": "2026/10/9-10",
       "name": "第10回 教育セミナー in おかやま",
       "venue": "岡山県内",
-      "booth": "要確認",
-      "status": "8/17以降に可否の連絡あり",
-      "contact": "日本教育情報化振興会（JAPET&CEC）青木様",
+      "booth": "協賛企業と調整中",
+      "status": "8/17以降に可否の連絡あり（青木様より返信済）",
+      "contact": "JAPET&CEC 青木様",
       "url": "https://www.japet.or.jp/national-semi/main/"
     },
     {
@@ -66,10 +86,20 @@
       "date": "2026/10/13-15",
       "name": "EDIX関西（教育総合展）",
       "venue": "グランキューブ大阪",
-      "booth": "あり",
+      "booth": "あり（出展小間）",
       "status": "出展できる可能性あり／要問合せ",
       "contact": "RX Japan 出展窓口",
       "url": "https://www.edix-expo.jp/"
+    },
+    {
+      "id": "ess-saitama-2026",
+      "date": "2026/10月（日程未定）",
+      "name": "Educational Solution Seminar さいたま市",
+      "venue": "さいたま市内",
+      "booth": "あり",
+      "status": "直近で出展できる可能性あり／協賛企業へ確認を依頼可",
+      "contact": "JAPET&CEC 青木様",
+      "url": "https://www.japet.or.jp/national-semi/main/"
     },
     {
       "id": "sanfair-saga-2026",
@@ -77,7 +107,7 @@
       "name": "第36回 全国産業教育フェア佐賀大会（さんフェア）",
       "venue": "SAGAアリーナ・SAGAプラザ ほか",
       "booth": "協賛枠あり",
-      "status": "要問合せ",
+      "status": "未問合せ",
       "contact": "さんフェアSAGA2026 実行委員会",
       "url": "https://sanfair-saga2026.jp/"
     },
@@ -86,7 +116,7 @@
       "date": "2026/10/30-31",
       "name": "第52回 全日本教育工学研究協議会 全国大会",
       "venue": "高知工科大学 香美キャンパス",
-      "booth": "あり（40ブース）",
+      "booth": "あり（40ブース・15万円）",
       "status": "締切済（7/31）／ダイフェスタと日程重複",
       "contact": "株式会社PCO jaet@pcojapan.jp",
       "url": "https://smartconf.jp/content/jaet2026/sponsor"
@@ -96,19 +126,29 @@
       "date": "2026/11/7-8",
       "name": "青少年のための科学の祭典 ひたちなか大会",
       "venue": "ひたちなか市総合体育館",
-      "booth": "あり",
-      "status": "出展募集中",
-      "contact": "科学の祭典ひたちなか大会 事務局",
+      "booth": "あり（体験型ブース）",
+      "status": "8/14に照会メール送信／返答待ち",
+      "contact": "saiten_hitachinaka@yahoo.co.jp",
       "url": "https://kagaku.npo-nakanaka.org/"
+    },
+    {
+      "id": "ciec-hokkaido-2026",
+      "date": "2026/11/29",
+      "name": "PCカンファレンス北海道2026",
+      "venue": "北海道大学",
+      "booth": "要確認",
+      "status": "8/14に照会メール送信／返答待ち",
+      "contact": "CIEC事務局 pcc-info@ciec.or.jp",
+      "url": "https://www.ciec.or.jp/committee/hokkaido/"
     },
     {
       "id": "japet-dx-forum-2027",
       "date": "2027/3/2",
       "name": "教育DX推進フォーラム",
       "venue": "国立オリンピック記念青少年総合センター",
-      "booth": "あり",
-      "status": "出展可能／募集は10月頃",
-      "contact": "日本教育情報化振興会（JAPET&CEC）青木様",
+      "booth": "あり（非会員も出展可・会員と費用差あり）",
+      "status": "出展可能／募集は10月頃・準備中",
+      "contact": "JAPET&CEC 青木様",
       "url": "https://www.japet.or.jp/info-on-ex-sponsors/"
     },
     {
@@ -116,10 +156,40 @@
       "date": "2027/3/6-7",
       "name": "日本教育工学会 2027年春季全国大会",
       "venue": "関西学院大学",
-      "booth": "あり",
+      "booth": "あり（通年募集）",
       "status": "出展できる可能性あり／要問合せ",
       "contact": "日本教育工学会 大会事務局",
       "url": "https://www.jset.gr.jp/annual/annual-27s/"
+    },
+    {
+      "id": "kansai-ict-2027",
+      "date": "2027/7-8月（予定）",
+      "name": "第12回 関西教育ICT展",
+      "venue": "インテックス大阪",
+      "booth": "あり（非会員も出展可・会員と費用差あり）",
+      "status": "出展可能／募集は2027年5月頃",
+      "contact": "JAPET&CEC 青木様",
+      "url": "https://www.kyouikuict.jp/"
+    },
+    {
+      "id": "ciec-pcc-2027",
+      "date": "2027/8月（予定）",
+      "name": "PCカンファレンス 教育・ITフェア",
+      "venue": "未定（2026年は東洋大学 赤羽台）",
+      "booth": "あり（3タイプ・机180cm＋バックパネル）",
+      "status": "8/14に照会メール送信／返答待ち",
+      "contact": "CIEC事務局 pcc-info@ciec.or.jp",
+      "url": "https://conference.ciec.or.jp/overview/"
+    },
+    {
+      "id": "zenkojoken-20",
+      "date": "2027/8月（予定）",
+      "name": "第20回 全国高等学校情報教育研究会 全国大会",
+      "venue": "未定",
+      "booth": "協賛・企業展示あり",
+      "status": "募集要項は例年2月頃に公開",
+      "contact": "全高情研 事務局",
+      "url": "https://www.zenkojoken.jp/"
     }
   ]
 }
