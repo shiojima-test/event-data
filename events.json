@@ -1,6 +1,6 @@
 {
   "updated": "2026-08-15",
-  "updated_at": "8/15 21:47",
+  "updated_at": "8/15 21:54",
   "events": [
     {
       "id": "sss2026",
@@ -109,6 +109,18 @@
       "url": "https://jsse.jp/jsseam/",
       "grade": "小・中・高",
       "subject": "理科・数学・情報"
+    },
+    {
+      "id": "jsee-74",
+      "date": "2026/9/2-4",
+      "name": "日本工学教育協会 第74回年次大会・工学教育研究講演会",
+      "venue": "岐阜大学",
+      "grade": "高専・大",
+      "subject": "工学",
+      "booth": "あり（機器展示）",
+      "status": "未問合せ／本年は直前のため次年度想定",
+      "contact": "日本工学教育協会 jsee@jsee.or.jp",
+      "url": "https://www.jsee.or.jp/event/conference"
     },
     {
       "id": "japet-okayama-2026",
@@ -220,6 +232,31 @@
       "url": "https://www.ajgika.ne.jp/",
       "grade": "中",
       "subject": "技術・家庭"
+    },
+    {
+      "id": "sstc-70",
+      "date": "2026/11/10-13",
+      "name": "第70回 宇宙科学技術連合講演会（宇科連）",
+      "venue": "ライトキューブ宇都宮",
+      "grade": "中・高・大",
+      "subject": "宇宙・工学",
+      "booth": "あり（一般展示は7/16に定員締切）",
+      "status": "本年の展示は締切済／ジュニアセッションは申込受付中",
+      "contact": "日本航空宇宙学会 宇科連事務局",
+      "url": "https://smartconf.jp/content/sstc70/sponsorship",
+      "memo": "スクーミー宇宙プロジェクトと直結。ジュニアセッション要検討"
+    },
+    {
+      "id": "satcon-34",
+      "date": "2026/11/14",
+      "name": "第34回 衛星設計コンテスト 最終審査会",
+      "venue": "ライトキューブ宇都宮（宇科連と同会場）",
+      "grade": "中・高・大",
+      "subject": "宇宙・工学",
+      "booth": "要確認",
+      "status": "未問合せ／宇科連の翌日に開催",
+      "contact": "衛星設計コンテスト実行委員会",
+      "url": "https://smartconf.jp/content/sstc70"
     },
     {
       "id": "csj-kinki-hs",
