@@ -1,6 +1,6 @@
 {
   "updated": "2026-08-15",
-  "updated_at": "8/15 21:24",
+  "updated_at": "8/15 21:41",
   "events": [
     {
       "id": "sss2026",
@@ -146,6 +146,16 @@
       "url": "https://smartconf.jp/content/jaet2026/sponsor"
     },
     {
+      "id": "sme-59",
+      "date": "2026/10/31-11/1",
+      "name": "日本数学教育学会 第59回秋期研究大会",
+      "venue": "埼玉大学",
+      "booth": "要確認",
+      "status": "ダイフェスタ2026と日程が完全に重複",
+      "contact": "日本数学教育学会",
+      "url": "https://www.sme.or.jp/"
+    },
+    {
       "id": "kagaku-hitachinaka-2026",
       "date": "2026/11/7-8",
       "name": "青少年のための科学の祭典 ひたちなか大会",
@@ -164,6 +174,26 @@
       "status": "8/14に照会メール送信／返答待ち",
       "contact": "CIEC事務局 pcc-info@ciec.or.jp",
       "url": "https://www.ciec.or.jp/committee/hokkaido/"
+    },
+    {
+      "id": "ajgika-national",
+      "date": "2026/11月（要確認）",
+      "name": "全日本中学校技術・家庭科研究会 全国大会",
+      "venue": "未確認",
+      "booth": "要確認（賛助会員 1口 年5,000円）",
+      "status": "未問合せ／最も安価に接点を作れる可能性",
+      "contact": "全日本中学校技術・家庭科研究会",
+      "url": "https://www.ajgika.ne.jp/"
+    },
+    {
+      "id": "monodukuri-fair",
+      "date": "2027/1月（要確認）",
+      "name": "全国中学生創造ものづくり教育フェア",
+      "venue": "未確認",
+      "booth": "要確認",
+      "status": "未問合せ／ロボット・計測系の生徒作品が中心",
+      "contact": "全日本中学校技術・家庭科研究会／全産協",
+      "url": "https://ajgika.ne.jp/fair.html"
     },
     {
       "id": "japet-dx-forum-2027",
@@ -224,6 +254,16 @@
       "status": "募集要項は例年2月頃に公開",
       "contact": "全高情研 事務局",
       "url": "https://www.zenkojoken.jp/"
+    },
+    {
+      "id": "sme-109",
+      "date": "2027/8月（予定）",
+      "name": "第109回 全国算数・数学教育研究大会",
+      "venue": "未定（第108回は東京）",
+      "booth": "要確認",
+      "status": "未問合せ／次年度に向けて照会",
+      "contact": "日本数学教育学会",
+      "url": "https://www.sme.or.jp/conference/national/"
     },
     {
       "id": "fit-2027",
