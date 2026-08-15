@@ -1,6 +1,6 @@
 {
   "updated": "2026-08-15",
-  "updated_at": "8/15 21:57",
+  "updated_at": "8/15 21:59",
   "events": [
     {
       "id": "sss2026",
@@ -49,6 +49,30 @@
       "url": "https://national.sjst.jp/2026",
       "grade": "小・中・高",
       "subject": "理科"
+    },
+    {
+      "id": "robot-idea-koshien",
+      "date": "2026/8-11月（地方大会〜全国）",
+      "name": "ロボットアイデア甲子園",
+      "venue": "全国の地方大会＋全国大会",
+      "grade": "中・高",
+      "subject": "ロボット",
+      "booth": "協賛制（全国大会特別協賛／一般協賛／地方大会協賛）",
+      "status": "未問合せ／地方大会協賛なら小額で可能",
+      "contact": "ロボットアイデア甲子園 実行委員会",
+      "url": "https://robotkoshien.jp/sponsor/"
+    },
+    {
+      "id": "js-dt-15",
+      "date": "2026/8月（要確認）",
+      "name": "日本デジタル教科書学会 第15回年次大会",
+      "venue": "未確認",
+      "grade": "小・中・高",
+      "subject": "デジタル教材",
+      "booth": "要確認",
+      "status": "未問合せ",
+      "contact": "日本デジタル教科書学会",
+      "url": "https://js-dt.jp/category/project/annual_project/"
     },
     {
       "id": "jsise-51",
@@ -133,6 +157,18 @@
       "status": "未問合せ／優先度は低め",
       "contact": "日本機械学会",
       "url": "https://www.jsme.or.jp/event_project/annual-conference/"
+    },
+    {
+      "id": "jstem-9",
+      "date": "2026/9/19",
+      "name": "日本STEM教育学会 第9回年次大会",
+      "venue": "オンライン開催",
+      "grade": "小・中・高",
+      "subject": "STEAM",
+      "booth": "要確認（オンラインのため展示枠は不明）",
+      "status": "未問合せ／入会は産官学を問わず可",
+      "contact": "日本STEM教育学会（JSTEM）",
+      "url": "https://www.j-stem.jp/"
     },
     {
       "id": "japet-okayama-2026",
@@ -332,6 +368,18 @@
       "url": "https://kinki.chemistry.or.jp/jhapyo.html"
     },
     {
+      "id": "vex-japan",
+      "date": "2026-2027（通年）",
+      "name": "VEX Robotics 競技会（日本大会）",
+      "venue": "国内各地＋世界大会",
+      "grade": "小・中・高・高専",
+      "subject": "ロボット・STEAM",
+      "booth": "要確認",
+      "status": "未問合せ",
+      "contact": "一般社団法人 青少年STEM教育振興会（YSE）",
+      "url": "https://stemjapan.org/"
+    },
+    {
       "id": "monodukuri-fair",
       "date": "2027/1月（要確認）",
       "name": "全国中学生創造ものづくり教育フェア",
@@ -378,6 +426,18 @@
       "url": "https://www.ipsj.or.jp/event/taikai/89/index.html",
       "grade": "中・高・大",
       "subject": "情報"
+    },
+    {
+      "id": "rcjj-japanopen",
+      "date": "2027/3月（予定）",
+      "name": "ロボカップジュニア ジャパンオープン",
+      "venue": "2027年は千葉（2026年は愛知）",
+      "grade": "小・中・高",
+      "subject": "ロボット・STEAM",
+      "booth": "スポンサー制（ブロック大会単位でも募集）",
+      "status": "未問合せ／ノード・ブロック大会なら小規模で参加可",
+      "contact": "ロボカップジュニア・ジャパン／各ブロック",
+      "url": "https://www.robocupjunior.jp/"
     },
     {
       "id": "kosen-fes-2027",
