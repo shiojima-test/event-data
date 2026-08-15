@@ -1,6 +1,6 @@
 {
   "updated": "2026-08-15",
-  "updated_at": "8/15 21:41",
+  "updated_at": "8/15 21:43",
   "events": [
     {
       "id": "sss2026",
@@ -10,7 +10,9 @@
       "booth": "なし",
       "status": "見学のみ／SSS2027の展示枠を照会中（8/15送信）",
       "contact": "情報処理学会 sig@ipsj.or.jp",
-      "url": "https://www.ipsj.or.jp/kenkyukai/event/sss2026.html"
+      "url": "https://www.ipsj.or.jp/kenkyukai/event/sss2026.html",
+      "grade": "高",
+      "subject": "情報"
     },
     {
       "id": "ess-akihabara-2026",
@@ -20,7 +22,9 @@
       "booth": "あり",
       "status": "出展企業は確定済／見学のみ（参加無料）",
       "contact": "JAPET&CEC 青木様",
-      "url": "https://www.japet.or.jp/national-semi/main/"
+      "url": "https://www.japet.or.jp/national-semi/main/",
+      "grade": "小・中・高",
+      "subject": "ICT全般"
     },
     {
       "id": "jste-69",
@@ -30,7 +34,9 @@
       "booth": "あり（広告掲載企業は出展料無料）",
       "status": "広告申込済／8/17振込予定・企業展示を照会中",
       "contact": "鳴門教育大学 長井映雄様 akionagai@naruto-u.ac.jp",
-      "url": "https://sites.google.com/jste.jp/2026/top"
+      "url": "https://sites.google.com/jste.jp/2026/top",
+      "grade": "小・中・高",
+      "subject": "技術"
     },
     {
       "id": "sjst-76",
@@ -40,7 +46,9 @@
       "booth": "要確認",
       "status": "8/15に照会メール送信／返答待ち（本年は8/22開催のため次年度想定）",
       "contact": "日本理科教育学会 大会事務局",
-      "url": "https://national.sjst.jp/2026"
+      "url": "https://national.sjst.jp/2026",
+      "grade": "小・中・高",
+      "subject": "理科"
     },
     {
       "id": "jsise-51",
@@ -50,7 +58,9 @@
       "booth": "あり（10万円／賛助会員7万円）",
       "status": "締切済（7/10）／次年度の出展を照会中",
       "contact": "jsise-desk@conf.bunken.co.jp",
-      "url": "https://taikai2026.jsise.org/sponsor"
+      "url": "https://taikai2026.jsise.org/sponsor",
+      "grade": "中・高・大",
+      "subject": "情報"
     },
     {
       "id": "ciec-kyushu-2026",
@@ -60,7 +70,9 @@
       "booth": "要確認",
       "status": "8/14に照会メール送信／返答待ち",
       "contact": "CIEC事務局 pcc-info@ciec.or.jp",
-      "url": "https://coop.kyushu-bauc.or.jp/pcc2026/"
+      "url": "https://coop.kyushu-bauc.or.jp/pcc2026/",
+      "grade": "中・高・大",
+      "subject": "情報"
     },
     {
       "id": "sciagora-2026",
@@ -70,7 +82,9 @@
       "booth": "あり（出展企画を公募）",
       "status": "本年の募集は5/14で終了／次年度狙い",
       "contact": "科学技術振興機構（JST）",
-      "url": "https://www.jst.go.jp/cpse/ssh/news/others.html"
+      "url": "https://www.jst.go.jp/cpse/ssh/news/others.html",
+      "grade": "小・中・高",
+      "subject": "科学全般"
     },
     {
       "id": "jset-2026a",
@@ -80,7 +94,9 @@
       "booth": "あり（通年募集）",
       "status": "出展できる可能性あり／要問合せ",
       "contact": "日本教育工学会 大会事務局",
-      "url": "https://www.jset.gr.jp/taikai49/"
+      "url": "https://www.jset.gr.jp/taikai49/",
+      "grade": "小・中・高",
+      "subject": "教育工学"
     },
     {
       "id": "jsse-50",
@@ -90,7 +106,9 @@
       "booth": "要確認",
       "status": "8/15に照会メール送信／返答待ち",
       "contact": "日本科学教育学会 年会事務局",
-      "url": "https://jsse.jp/jsseam/"
+      "url": "https://jsse.jp/jsseam/",
+      "grade": "小・中・高",
+      "subject": "理科・数学・情報"
     },
     {
       "id": "japet-okayama-2026",
@@ -100,7 +118,9 @@
       "booth": "協賛企業と調整中",
       "status": "8/17以降に可否の連絡あり（青木様より返信済）",
       "contact": "JAPET&CEC 青木様",
-      "url": "https://www.japet.or.jp/national-semi/main/"
+      "url": "https://www.japet.or.jp/national-semi/main/",
+      "grade": "小・中・高",
+      "subject": "ICT全般"
     },
     {
       "id": "edix-kansai-2026",
@@ -111,7 +131,9 @@
       "status": "出展できる可能性あり／要問合せ",
       "contact": "RX Japan 出展窓口",
       "url": "https://www.edix-expo.jp/",
-      "memo": "クラスター社に相談"
+      "memo": "クラスター社に相談",
+      "grade": "小・中・高",
+      "subject": "ICT全般"
     },
     {
       "id": "ess-saitama-2026",
@@ -122,7 +144,9 @@
       "status": "出展を依頼済／協賛企業へ確認中",
       "contact": "JAPET&CEC 青木様",
       "url": "https://www.japet.or.jp/national-semi/main/",
-      "memo": "8/15返信。打合せ候補8/20・8/21 13-15時を提示"
+      "memo": "8/15返信。打合せ候補8/20・8/21 13-15時を提示",
+      "grade": "小・中・高",
+      "subject": "ICT全般"
     },
     {
       "id": "sanfair-saga-2026",
@@ -133,7 +157,9 @@
       "status": "却下（協賛費が予算超過）",
       "contact": "さんフェアSAGA2026 実行委員会",
       "url": "https://sanfair-saga2026.jp/",
-      "memo": "協賛30万円。予算に合わないため見送り"
+      "memo": "協賛30万円。予算に合わないため見送り",
+      "grade": "高",
+      "subject": "専門学科"
     },
     {
       "id": "jaet-52",
@@ -143,7 +169,9 @@
       "booth": "あり（40ブース・15万円）",
       "status": "締切済（7/31）／ダイフェスタと重複／次年度の協賛を照会中",
       "contact": "株式会社PCO jaet@pcojapan.jp",
-      "url": "https://smartconf.jp/content/jaet2026/sponsor"
+      "url": "https://smartconf.jp/content/jaet2026/sponsor",
+      "grade": "小・中・高",
+      "subject": "ICT全般"
     },
     {
       "id": "sme-59",
@@ -153,7 +181,9 @@
       "booth": "要確認",
       "status": "ダイフェスタ2026と日程が完全に重複",
       "contact": "日本数学教育学会",
-      "url": "https://www.sme.or.jp/"
+      "url": "https://www.sme.or.jp/",
+      "grade": "小・中・高",
+      "subject": "算数・数学"
     },
     {
       "id": "kagaku-hitachinaka-2026",
@@ -163,7 +193,9 @@
       "booth": "あり（体験型ブース）",
       "status": "8/14に照会メール送信／返答待ち",
       "contact": "saiten_hitachinaka@yahoo.co.jp",
-      "url": "https://kagaku.npo-nakanaka.org/"
+      "url": "https://kagaku.npo-nakanaka.org/",
+      "grade": "小・中",
+      "subject": "科学全般"
     },
     {
       "id": "ciec-hokkaido-2026",
@@ -173,7 +205,9 @@
       "booth": "要確認",
       "status": "8/14に照会メール送信／返答待ち",
       "contact": "CIEC事務局 pcc-info@ciec.or.jp",
-      "url": "https://www.ciec.or.jp/committee/hokkaido/"
+      "url": "https://www.ciec.or.jp/committee/hokkaido/",
+      "grade": "中・高・大",
+      "subject": "情報"
     },
     {
       "id": "ajgika-national",
@@ -183,7 +217,9 @@
       "booth": "要確認（賛助会員 1口 年5,000円）",
       "status": "未問合せ／最も安価に接点を作れる可能性",
       "contact": "全日本中学校技術・家庭科研究会",
-      "url": "https://www.ajgika.ne.jp/"
+      "url": "https://www.ajgika.ne.jp/",
+      "grade": "中",
+      "subject": "技術・家庭"
     },
     {
       "id": "monodukuri-fair",
@@ -193,7 +229,9 @@
       "booth": "要確認",
       "status": "未問合せ／ロボット・計測系の生徒作品が中心",
       "contact": "全日本中学校技術・家庭科研究会／全産協",
-      "url": "https://ajgika.ne.jp/fair.html"
+      "url": "https://ajgika.ne.jp/fair.html",
+      "grade": "中",
+      "subject": "技術"
     },
     {
       "id": "japet-dx-forum-2027",
@@ -203,7 +241,9 @@
       "booth": "あり（非会員も出展可・会員と費用差あり）",
       "status": "出展可能／募集は10月頃・案内依頼済",
       "contact": "JAPET&CEC 青木様",
-      "url": "https://www.japet.or.jp/info-on-ex-sponsors/"
+      "url": "https://www.japet.or.jp/info-on-ex-sponsors/",
+      "grade": "小・中・高",
+      "subject": "ICT全般"
     },
     {
       "id": "jset-2027s",
@@ -213,7 +253,9 @@
       "booth": "あり（通年募集）",
       "status": "出展できる可能性あり／要問合せ",
       "contact": "日本教育工学会 大会事務局",
-      "url": "https://www.jset.gr.jp/annual/annual-27s/"
+      "url": "https://www.jset.gr.jp/annual/annual-27s/",
+      "grade": "小・中・高",
+      "subject": "教育工学"
     },
     {
       "id": "ipsj-89",
@@ -223,7 +265,9 @@
       "booth": "あり（企業・大学・団体の展示コーナー）",
       "status": "8/15に照会メール送信／返答待ち",
       "contact": "情報処理学会 事業部門 ipsjtaikai@ipsj.or.jp",
-      "url": "https://www.ipsj.or.jp/event/taikai/89/index.html"
+      "url": "https://www.ipsj.or.jp/event/taikai/89/index.html",
+      "grade": "中・高・大",
+      "subject": "情報"
     },
     {
       "id": "kansai-ict-2027",
@@ -233,7 +277,9 @@
       "booth": "あり（非会員も出展可・会員と費用差あり）",
       "status": "出展可能／募集は2027年5月頃・案内依頼済",
       "contact": "JAPET&CEC 青木様",
-      "url": "https://www.kyouikuict.jp/"
+      "url": "https://www.kyouikuict.jp/",
+      "grade": "小・中・高",
+      "subject": "ICT全般"
     },
     {
       "id": "ciec-pcc-2027",
@@ -243,7 +289,9 @@
       "booth": "あり（3タイプ・机180cm＋バックパネル）",
       "status": "8/14に照会メール送信／返答待ち",
       "contact": "CIEC事務局 pcc-info@ciec.or.jp",
-      "url": "https://conference.ciec.or.jp/overview/"
+      "url": "https://conference.ciec.or.jp/overview/",
+      "grade": "中・高・大",
+      "subject": "情報"
     },
     {
       "id": "zenkojoken-20",
@@ -253,7 +301,9 @@
       "booth": "協賛・企業展示あり",
       "status": "募集要項は例年2月頃に公開",
       "contact": "全高情研 事務局",
-      "url": "https://www.zenkojoken.jp/"
+      "url": "https://www.zenkojoken.jp/",
+      "grade": "高",
+      "subject": "情報"
     },
     {
       "id": "sme-109",
@@ -263,7 +313,9 @@
       "booth": "要確認",
       "status": "未問合せ／次年度に向けて照会",
       "contact": "日本数学教育学会",
-      "url": "https://www.sme.or.jp/conference/national/"
+      "url": "https://www.sme.or.jp/conference/national/",
+      "grade": "小・中・高",
+      "subject": "算数・数学"
     },
     {
       "id": "fit-2027",
@@ -273,7 +325,9 @@
       "booth": "要確認",
       "status": "未問合せ／情報処理学会・電子情報通信学会の共催",
       "contact": "情報処理学会 事業部門 ipsjtaikai@ipsj.or.jp",
-      "url": "https://www.ipsj.or.jp/index.html"
+      "url": "https://www.ipsj.or.jp/index.html",
+      "grade": "大",
+      "subject": "情報"
     }
   ]
 }
