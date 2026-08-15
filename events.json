@@ -1,6 +1,6 @@
 {
   "updated": "2026-08-15",
-  "updated_at": "8/15 21:54",
+  "updated_at": "8/15 21:55",
   "events": [
     {
       "id": "sss2026",
@@ -123,6 +123,18 @@
       "url": "https://www.jsee.or.jp/event/conference"
     },
     {
+      "id": "jsme-2026",
+      "date": "2026/9/6-9",
+      "name": "日本機械学会 2026年度年次大会",
+      "venue": "未確認",
+      "grade": "大",
+      "subject": "機械工学",
+      "booth": "要確認",
+      "status": "未問合せ／優先度は低め",
+      "contact": "日本機械学会",
+      "url": "https://www.jsme.or.jp/event_project/annual-conference/"
+    },
+    {
       "id": "japet-okayama-2026",
       "date": "2026/10/9-10",
       "name": "第10回 教育セミナー in おかやま",
@@ -241,10 +253,10 @@
       "grade": "中・高・大",
       "subject": "宇宙・工学",
       "booth": "あり（一般展示は7/16に定員締切）",
-      "status": "本年の展示は締切済／ジュニアセッションは申込受付中",
-      "contact": "日本航空宇宙学会 宇科連事務局",
+      "status": "一般展示は締切済／ジュニアセッションは受付中（13〜20歳・会費無料）",
+      "contact": "第70回宇科連運営事務局（PCO内）ukaren70@pcojapan.jp",
       "url": "https://smartconf.jp/content/sstc70/sponsorship",
-      "memo": "スクーミー宇宙プロジェクトと直結。ジュニアセッション要検討"
+      "memo": "ジュニアセッション要検討。ポスター発表・原稿不要・参加無料。前回締切は9月末"
     },
     {
       "id": "satcon-34",
@@ -257,6 +269,31 @@
       "status": "未問合せ／宇科連の翌日に開催",
       "contact": "衛星設計コンテスト実行委員会",
       "url": "https://smartconf.jp/content/sstc70"
+    },
+    {
+      "id": "zenkoukyo-idea",
+      "date": "2026/11-12月（申請期間）",
+      "name": "第24回 高校生技術・アイディアコンテスト全国大会",
+      "venue": "全国（書類申請）",
+      "grade": "高",
+      "subject": "工業・技術",
+      "booth": "なし（生徒の応募型）",
+      "status": "未問合せ／前回申請期間は11/4〜12/24",
+      "contact": "全国工業高等学校長協会 TEL 03-3261-1500",
+      "url": "https://zenkoukyo.or.jp/index_contest/idea_index/",
+      "memo": "生徒がスクーミーで作った作品をそのまま応募できる"
+    },
+    {
+      "id": "zenkoukyo-mono-26",
+      "date": "2026/11/14-15",
+      "name": "第26回 高校生ものづくりコンテスト全国大会",
+      "venue": "北海道地区",
+      "grade": "高",
+      "subject": "工業",
+      "booth": "なし（技能競技8部門）",
+      "status": "企業展示枠なし／情報収集のみ",
+      "contact": "全国工業高等学校長協会",
+      "url": "https://zenkoukyo.or.jp/index_contest/mono_index/"
     },
     {
       "id": "csj-kinki-hs",
