@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-15",
-  "updated_at": "8/15 21:59",
+  "updated": "2026-08-16",
+  "updated_at": "8/16 09:01",
   "events": [
     {
       "id": "sss2026",
@@ -92,11 +92,12 @@
       "name": "2026九州PCカンファレンス",
       "venue": "西南学院大学（福岡）",
       "booth": "要確認",
-      "status": "8/14に照会メール送信／返答待ち",
-      "contact": "CIEC事務局 pcc-info@ciec.or.jp",
+      "status": "CIEC事務局では不明／実行委員会へ直接問合せが必要",
+      "contact": "2026九州PCカンファレンス実行委員会",
       "url": "https://coop.kyushu-bauc.or.jp/pcc2026/",
       "grade": "中・高・大",
-      "subject": "情報"
+      "subject": "情報",
+      "memo": "事務局回答8/15。実行委員会に直接連絡すること"
     },
     {
       "id": "sciagora-2026",
@@ -274,12 +275,13 @@
       "date": "2026/11/29",
       "name": "PCカンファレンス北海道2026",
       "venue": "北海道大学",
-      "booth": "要確認",
-      "status": "8/14に照会メール送信／返答待ち",
+      "booth": "なし",
+      "status": "企業ブースの実施なし（8/15 事務局回答）",
       "contact": "CIEC事務局 pcc-info@ciec.or.jp",
       "url": "https://www.ciec.or.jp/committee/hokkaido/",
       "grade": "中・高・大",
-      "subject": "情報"
+      "subject": "情報",
+      "memo": "企業ブースなし。見学のみ"
     },
     {
       "id": "ajgika-national",
@@ -482,11 +484,12 @@
       "name": "PCカンファレンス 教育・ITフェア",
       "venue": "未定（2026年は東洋大学 赤羽台）",
       "booth": "あり（3タイプ・机180cm＋バックパネル）",
-      "status": "8/14に照会メール送信／返答待ち",
-      "contact": "CIEC事務局 pcc-info@ciec.or.jp",
+      "status": "出展可能／1ブース幅180cm・電源タップ・無線LANあり。会員はミニプレゼン可",
+      "contact": "CIEC事務局 山口剛様 yamaguchi.tsuyoshi@univ.coop",
       "url": "https://conference.ciec.or.jp/overview/",
       "grade": "中・高・大",
-      "subject": "情報"
+      "subject": "情報",
+      "memo": "出展料は要確認。CIEC会員のみミニプレゼン枠あり"
     },
     {
       "id": "zenkojoken-20",
