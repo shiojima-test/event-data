@@ -1,6 +1,6 @@
 {
   "updated": "2026-08-16",
-  "updated_at": "8/16 09:01",
+  "updated_at": "8/16 09:17",
   "events": [
     {
       "id": "sss2026",
@@ -484,12 +484,12 @@
       "name": "PCカンファレンス 教育・ITフェア",
       "venue": "未定（2026年は東洋大学 赤羽台）",
       "booth": "あり（3タイプ・机180cm＋バックパネル）",
-      "status": "出展可能／1ブース幅180cm・電源タップ・無線LANあり。会員はミニプレゼン可",
+      "status": "出展可能／募集開始の案内を依頼済み。出展料と入会費を照会中",
       "contact": "CIEC事務局 山口剛様 yamaguchi.tsuyoshi@univ.coop",
       "url": "https://conference.ciec.or.jp/overview/",
       "grade": "中・高・大",
       "subject": "情報",
-      "memo": "出展料は要確認。CIEC会員のみミニプレゼン枠あり"
+      "memo": "1ブース幅180cm・電源タップ・無線LANあり。会員のみミニプレゼン可。8/16に出展料とCIEC入会費を照会"
     },
     {
       "id": "zenkojoken-20",
