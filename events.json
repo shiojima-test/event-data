@@ -1,6 +1,6 @@
 {
   "updated": "2026-08-16",
-  "updated_at": "8/16 09:27",
+  "updated_at": "8/16 09:42",
   "events": [
     {
       "id": "sss2026",
@@ -484,12 +484,12 @@
       "venue": "未定",
       "grade": "小・中・高・大",
       "subject": "情報",
-      "student": "あり U-18論文（受賞実績あり）",
+      "student": "あり U-18論文（2026年3月に受賞実績）",
       "booth": "要確認",
       "status": "未問合せ／聖徳学園の生徒がU-18優秀論文賞を受賞",
       "contact": "CIEC事務局 pcc-info@ciec.or.jp",
       "url": "https://www.ciec.or.jp/",
-      "memo": "2026年3月に聖徳学園高校の武内龍義さんがオレンジボードを使った研究で受賞"
+      "memo": "2026年3月 聖徳学園高等学校 武内龍義さんが「GPSおよび気圧情報を用いた屋内位置把握システムの開発」でU-18優秀論文賞を受賞（オレンジボード使用）"
     },
     {
       "id": "kosen-fes-2027",
@@ -542,8 +542,8 @@
       "url": "https://conference.ciec.or.jp/overview/",
       "grade": "中・高・大",
       "subject": "情報",
-      "memo": "1ブース幅180cm・電源タップ・無線LANあり。会員のみミニプレゼン可。8/16に出展料とCIEC入会費を照会",
-      "student": "あり U-18発表"
+      "memo": "1ブース幅180cm・電源タップ・無線LANあり。会員のみミニプレゼン可。8/16に出展料とCIEC入会費を照会／2026年大会 論文集 pcc056 にスクーミーを使った研究が掲載 https://conference.ciec.or.jp/pdf/2026pcc/pcc056.pdf",
+      "student": "あり U-18発表／2026年大会の論文集にスクーミー使用の研究が掲載"
     },
     {
       "id": "zenkojoken-20",
