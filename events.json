@@ -1,6 +1,6 @@
 {
   "updated": "2026-08-16",
-  "updated_at": "8/16 20:22",
+  "updated_at": "8/16 20:37",
   "events": [
     {
       "id": "sss2026",
@@ -13,7 +13,10 @@
       "url": "https://www.ipsj.or.jp/kenkyukai/event/sss2026.html",
       "grade": "高",
       "subject": "情報",
-      "student": "なし"
+      "student": "なし",
+      "contacted": "2026-08-15",
+      "deadline": "",
+      "waiting": true
     },
     {
       "id": "ess-akihabara-2026",
@@ -26,7 +29,10 @@
       "url": "https://www.japet.or.jp/national-semi/main/",
       "grade": "小・中・高",
       "subject": "ICT全般",
-      "student": "なし"
+      "student": "なし",
+      "contacted": "",
+      "deadline": "",
+      "waiting": false
     },
     {
       "id": "jste-69",
@@ -40,7 +46,10 @@
       "grade": "小・中・高",
       "subject": "技術",
       "student": "なし",
-      "memo": "東京書籍・板垣先生とのMTGが発端。広告A4全面2万円のみで展示は無料。机6個(650×450)＋パネル(1640×870)、電源は壁面100V×1（延長ケーブル持参）。1日目9:00搬入→10:00設営完了、2日目13:15撤収。賛助会員制度の案内あり"
+      "memo": "東京書籍・板垣先生とのMTGが発端。広告A4全面2万円のみで展示は無料。机6個(650×450)＋パネル(1640×870)、電源は壁面100V×1（延長ケーブル持参）。1日目9:00搬入→10:00設営完了、2日目13:15撤収。賛助会員制度の案内あり",
+      "contacted": "2026-08-15",
+      "deadline": "2026-08-18",
+      "waiting": false
     },
     {
       "id": "sjst-76",
@@ -53,7 +62,10 @@
       "url": "https://national.sjst.jp/2026",
       "grade": "小・中・高",
       "subject": "理科",
-      "student": "あり 児童生徒のポスター発表（先着50件）"
+      "student": "あり 児童生徒のポスター発表（先着50件）",
+      "contacted": "2026-08-15",
+      "deadline": "",
+      "waiting": true
     },
     {
       "id": "robot-idea-koshien",
@@ -66,7 +78,10 @@
       "status": "未問合せ／地方大会協賛なら小額で可能",
       "contact": "ロボットアイデア甲子園 実行委員会",
       "url": "https://robotkoshien.jp/sponsor/",
-      "student": "あり 中高生の応募型"
+      "student": "あり 中高生の応募型",
+      "contacted": "",
+      "deadline": "",
+      "waiting": false
     },
     {
       "id": "js-dt-15",
@@ -79,7 +94,10 @@
       "status": "未問合せ",
       "contact": "日本デジタル教科書学会",
       "url": "https://js-dt.jp/category/project/annual_project/",
-      "student": "なし"
+      "student": "なし",
+      "contacted": "",
+      "deadline": "",
+      "waiting": false
     },
     {
       "id": "jsise-51",
@@ -92,7 +110,10 @@
       "url": "https://taikai2026.jsise.org/sponsor",
       "grade": "中・高・大",
       "subject": "情報",
-      "student": "なし"
+      "student": "なし",
+      "contacted": "2026-08-14",
+      "deadline": "",
+      "waiting": true
     },
     {
       "id": "ciec-kyushu-2026",
@@ -106,7 +127,10 @@
       "grade": "中・高・大",
       "subject": "情報",
       "memo": "初日13:20-14:00に協賛企業プレゼン、14:00-16:30がITフェア。U-18トークセッション新設（締切8/28）",
-      "student": "あり U-18トークセッション（締切8/28・原稿不要）"
+      "student": "あり U-18トークセッション（締切8/28・原稿不要）",
+      "contacted": "2026-08-16",
+      "deadline": "2026-08-28",
+      "waiting": true
     },
     {
       "id": "sciagora-2026",
@@ -119,7 +143,10 @@
       "url": "https://www.jst.go.jp/cpse/ssh/news/others.html",
       "grade": "小・中・高",
       "subject": "科学全般",
-      "student": "あり 学校の出展企画も可"
+      "student": "あり 学校の出展企画も可",
+      "contacted": "",
+      "deadline": "",
+      "waiting": false
     },
     {
       "id": "jset-2026a",
@@ -132,7 +159,10 @@
       "url": "https://www.jset.gr.jp/taikai49/",
       "grade": "小・中・高",
       "subject": "教育工学",
-      "student": "なし"
+      "student": "なし",
+      "contacted": "",
+      "deadline": "",
+      "waiting": false
     },
     {
       "id": "jsse-50",
@@ -145,7 +175,10 @@
       "url": "https://jsse.jp/jsseam/",
       "grade": "小・中・高",
       "subject": "理科・数学・情報",
-      "student": "あり 小中高生の探究発表（50周年記念）"
+      "student": "あり 小中高生の探究発表（50周年記念）",
+      "contacted": "2026-08-15",
+      "deadline": "",
+      "waiting": true
     },
     {
       "id": "jsee-74",
@@ -158,7 +191,10 @@
       "status": "未問合せ／本年は直前のため次年度想定",
       "contact": "日本工学教育協会 jsee@jsee.or.jp",
       "url": "https://www.jsee.or.jp/event/conference",
-      "student": "なし"
+      "student": "なし",
+      "contacted": "",
+      "deadline": "",
+      "waiting": false
     },
     {
       "id": "jsme-2026",
@@ -171,7 +207,10 @@
       "status": "未問合せ／優先度は低め",
       "contact": "日本機械学会",
       "url": "https://www.jsme.or.jp/event_project/annual-conference/",
-      "student": "なし"
+      "student": "なし",
+      "contacted": "",
+      "deadline": "",
+      "waiting": false
     },
     {
       "id": "jstem-9",
@@ -184,7 +223,10 @@
       "status": "未問合せ／入会は産官学を問わず可",
       "contact": "日本STEM教育学会（JSTEM）",
       "url": "https://www.j-stem.jp/",
-      "student": "なし"
+      "student": "なし",
+      "contacted": "",
+      "deadline": "",
+      "waiting": false
     },
     {
       "id": "japet-okayama-2026",
@@ -197,7 +239,10 @@
       "url": "https://www.japet.or.jp/national-semi/main/",
       "grade": "小・中・高",
       "subject": "ICT全般",
-      "student": "なし"
+      "student": "なし",
+      "contacted": "2026-08-15",
+      "deadline": "2026-08-17",
+      "waiting": true
     },
     {
       "id": "edix-kansai-2026",
@@ -211,7 +256,10 @@
       "memo": "クラスター社に相談",
       "grade": "小・中・高",
       "subject": "ICT全般",
-      "student": "なし"
+      "student": "なし",
+      "contacted": "",
+      "deadline": "",
+      "waiting": false
     },
     {
       "id": "ess-saitama-2026",
@@ -225,7 +273,10 @@
       "memo": "8/15返信。打合せ候補8/20・8/21 13-15時を提示",
       "grade": "小・中・高",
       "subject": "ICT全般",
-      "student": "なし"
+      "student": "なし",
+      "contacted": "2026-08-15",
+      "deadline": "",
+      "waiting": true
     },
     {
       "id": "sanfair-saga-2026",
@@ -239,7 +290,10 @@
       "memo": "協賛30万円。予算に合わないため見送り",
       "grade": "高",
       "subject": "専門学科",
-      "student": "なし"
+      "student": "なし",
+      "contacted": "",
+      "deadline": "",
+      "waiting": false
     },
     {
       "id": "jaet-52",
@@ -252,7 +306,10 @@
       "url": "https://smartconf.jp/content/jaet2026/sponsor",
       "grade": "小・中・高",
       "subject": "ICT全般",
-      "student": "なし"
+      "student": "なし",
+      "contacted": "2026-08-14",
+      "deadline": "",
+      "waiting": true
     },
     {
       "id": "sme-59",
@@ -265,7 +322,10 @@
       "url": "https://www.sme.or.jp/",
       "grade": "小・中・高",
       "subject": "算数・数学",
-      "student": "なし"
+      "student": "なし",
+      "contacted": "",
+      "deadline": "",
+      "waiting": false
     },
     {
       "id": "kosen-procon-37",
@@ -278,7 +338,10 @@
       "status": "未問合せ／協賛企業は企業賞を出せる",
       "contact": "全国高専プログラミングコンテスト委員会",
       "url": "https://www.procon.gr.jp/?page_id=1161",
-      "student": "あり 高専生の競技"
+      "student": "あり 高専生の競技",
+      "contacted": "",
+      "deadline": "",
+      "waiting": false
     },
     {
       "id": "kagaku-hitachinaka-2026",
@@ -291,7 +354,10 @@
       "url": "https://kagaku.npo-nakanaka.org/",
       "grade": "小・中",
       "subject": "科学全般",
-      "student": "なし"
+      "student": "なし",
+      "contacted": "2026-08-14",
+      "deadline": "",
+      "waiting": true
     },
     {
       "id": "ciec-hokkaido-2026",
@@ -305,7 +371,10 @@
       "grade": "中・高・大",
       "subject": "情報",
       "memo": "企業ブースなし。見学のみ",
-      "student": "なし"
+      "student": "なし",
+      "contacted": "2026-08-16",
+      "deadline": "",
+      "waiting": false
     },
     {
       "id": "ajgika-national",
@@ -318,7 +387,10 @@
       "url": "https://www.ajgika.ne.jp/",
       "grade": "中",
       "subject": "技術・家庭",
-      "student": "なし"
+      "student": "なし",
+      "contacted": "",
+      "deadline": "",
+      "waiting": false
     },
     {
       "id": "sstc-70",
@@ -332,7 +404,10 @@
       "contact": "第70回宇科連運営事務局（PCO内）ukaren70@pcojapan.jp",
       "url": "https://smartconf.jp/content/sstc70/sponsorship",
       "memo": "ジュニアセッション要検討。ポスター発表・原稿不要・参加無料。前回締切は9月末",
-      "student": "あり ジュニアセッション（13〜20歳・会費無料・原稿不要）"
+      "student": "あり ジュニアセッション（13〜20歳・会費無料・原稿不要）",
+      "contacted": "",
+      "deadline": "2026-09-30",
+      "waiting": false
     },
     {
       "id": "satcon-34",
@@ -345,7 +420,10 @@
       "status": "未問合せ／宇科連の翌日に開催",
       "contact": "衛星設計コンテスト実行委員会",
       "url": "https://smartconf.jp/content/sstc70",
-      "student": "あり ジュニアの部"
+      "student": "あり ジュニアの部",
+      "contacted": "",
+      "deadline": "",
+      "waiting": false
     },
     {
       "id": "zenkoukyo-idea",
@@ -359,7 +437,10 @@
       "contact": "全国工業高等学校長協会 TEL 03-3261-1500",
       "url": "https://zenkoukyo.or.jp/index_contest/idea_index/",
       "memo": "生徒がスクーミーで作った作品をそのまま応募できる",
-      "student": "あり 生徒の応募型（アイディア＋試作品）"
+      "student": "あり 生徒の応募型（アイディア＋試作品）",
+      "contacted": "",
+      "deadline": "2026-12-24",
+      "waiting": false
     },
     {
       "id": "zenkoukyo-mono-26",
@@ -372,7 +453,10 @@
       "status": "企業展示枠なし／情報収集のみ",
       "contact": "全国工業高等学校長協会",
       "url": "https://zenkoukyo.or.jp/index_contest/mono_index/",
-      "student": "あり 生徒の技能競技"
+      "student": "あり 生徒の技能競技",
+      "contacted": "",
+      "deadline": "",
+      "waiting": false
     },
     {
       "id": "u22-procon-2026",
@@ -385,7 +469,10 @@
       "status": "未問合せ／協賛募集は1月開始・本年は締切の可能性",
       "contact": "一般社団法人ソフトウェア協会（SAJ）",
       "url": "https://u22procon.com/",
-      "student": "あり U-22（22歳以下）"
+      "student": "あり U-22（22歳以下）",
+      "contacted": "",
+      "deadline": "",
+      "waiting": false
     },
     {
       "id": "csj-kinki-hs",
@@ -398,7 +485,10 @@
       "status": "未問合せ／中高生のクラブ研究発表が中心",
       "contact": "日本化学会 近畿支部／化学教育協議会",
       "url": "https://kinki.chemistry.or.jp/jhapyo.html",
-      "student": "あり 中高生の研究発表が主体"
+      "student": "あり 中高生の研究発表が主体",
+      "contacted": "",
+      "deadline": "",
+      "waiting": false
     },
     {
       "id": "vex-japan",
@@ -411,7 +501,10 @@
       "status": "未問合せ",
       "contact": "一般社団法人 青少年STEM教育振興会（YSE）",
       "url": "https://stemjapan.org/",
-      "student": "あり 小中高生の競技"
+      "student": "あり 小中高生の競技",
+      "contacted": "",
+      "deadline": "",
+      "waiting": false
     },
     {
       "id": "monodukuri-fair",
@@ -424,7 +517,10 @@
       "url": "https://ajgika.ne.jp/fair.html",
       "grade": "中",
       "subject": "技術",
-      "student": "あり 生徒作品コンクール"
+      "student": "あり 生徒作品コンクール",
+      "contacted": "",
+      "deadline": "",
+      "waiting": false
     },
     {
       "id": "japet-dx-forum-2027",
@@ -437,7 +533,10 @@
       "url": "https://www.japet.or.jp/info-on-ex-sponsors/",
       "grade": "小・中・高",
       "subject": "ICT全般",
-      "student": "なし"
+      "student": "なし",
+      "contacted": "2026-08-15",
+      "deadline": "",
+      "waiting": true
     },
     {
       "id": "jset-2027s",
@@ -450,7 +549,10 @@
       "url": "https://www.jset.gr.jp/annual/annual-27s/",
       "grade": "小・中・高",
       "subject": "教育工学",
-      "student": "なし"
+      "student": "なし",
+      "contacted": "",
+      "deadline": "",
+      "waiting": false
     },
     {
       "id": "ipsj-89",
@@ -463,7 +565,10 @@
       "url": "https://www.ipsj.or.jp/event/taikai/89/index.html",
       "grade": "中・高・大",
       "subject": "情報",
-      "student": "あり 中高生情報学研究コンテスト（3/6）"
+      "student": "あり 中高生情報学研究コンテスト（3/6）",
+      "contacted": "2026-08-15",
+      "deadline": "",
+      "waiting": true
     },
     {
       "id": "rcjj-japanopen",
@@ -476,7 +581,10 @@
       "status": "未問合せ／ノード・ブロック大会なら小規模で参加可",
       "contact": "ロボカップジュニア・ジャパン／各ブロック",
       "url": "https://www.robocupjunior.jp/",
-      "student": "あり 小中高生の競技"
+      "student": "あり 小中高生の競技",
+      "contacted": "",
+      "deadline": "",
+      "waiting": false
     },
     {
       "id": "ciec-spring-2027",
@@ -490,7 +598,10 @@
       "status": "未問合せ／聖徳学園の生徒がU-18優秀論文賞を受賞",
       "contact": "CIEC事務局 pcc-info@ciec.or.jp",
       "url": "https://www.ciec.or.jp/",
-      "memo": "2026年3月 聖徳学園高等学校 武内龍義さんが「GPSおよび気圧情報を用いた屋内位置把握システムの開発」でU-18優秀論文賞を受賞（オレンジボード使用）"
+      "memo": "2026年3月 聖徳学園高等学校 武内龍義さんが「GPSおよび気圧情報を用いた屋内位置把握システムの開発」でU-18優秀論文賞を受賞（オレンジボード使用）",
+      "contacted": "",
+      "deadline": "",
+      "waiting": false
     },
     {
       "id": "kosen-fes-2027",
@@ -503,7 +614,10 @@
       "status": "未問合せ／来場は小中学生と保護者・科学教室あり",
       "contact": "国立高等専門学校機構",
       "url": "https://www.kosen-k.go.jp/hj_1-22event/kosenfes2026",
-      "student": "なし（来場が小中学生と保護者）"
+      "student": "なし（来場が小中学生と保護者）",
+      "contacted": "",
+      "deadline": "",
+      "waiting": false
     },
     {
       "id": "wro-japan-2027",
@@ -517,7 +631,10 @@
       "contact": "NPO法人WRO Japan／各予選会実行委員会",
       "url": "https://www.wroj.org/",
       "memo": "全国2,000チーム5,000名規模。山梨・近隣の予選会に絞る案",
-      "student": "あり 小中高生の競技"
+      "student": "あり 小中高生の競技",
+      "contacted": "",
+      "deadline": "",
+      "waiting": false
     },
     {
       "id": "kansai-ict-2027",
@@ -530,7 +647,10 @@
       "url": "https://www.kyouikuict.jp/",
       "grade": "小・中・高",
       "subject": "ICT全般",
-      "student": "なし"
+      "student": "なし",
+      "contacted": "2026-08-15",
+      "deadline": "",
+      "waiting": true
     },
     {
       "id": "ciec-pcc-2027",
@@ -544,7 +664,10 @@
       "grade": "中・高・大",
       "subject": "情報",
       "memo": "1ブース幅180cm・電源タップ・無線LANあり。会員のみミニプレゼン可。8/16に出展料とCIEC入会費を照会／2026年大会 論文集 pcc056 にスクーミーを使った研究が掲載 https://conference.ciec.or.jp/pdf/2026pcc/pcc056.pdf",
-      "student": "あり U-18発表／2026年大会の論文集にスクーミー使用の研究が掲載"
+      "student": "あり U-18発表／2026年大会の論文集にスクーミー使用の研究が掲載",
+      "contacted": "2026-08-16",
+      "deadline": "",
+      "waiting": true
     },
     {
       "id": "zenkojoken-20",
@@ -557,7 +680,10 @@
       "url": "https://www.zenkojoken.jp/",
       "grade": "高",
       "subject": "情報",
-      "student": "なし"
+      "student": "なし",
+      "contacted": "",
+      "deadline": "",
+      "waiting": false
     },
     {
       "id": "sme-109",
@@ -570,7 +696,10 @@
       "url": "https://www.sme.or.jp/conference/national/",
       "grade": "小・中・高",
       "subject": "算数・数学",
-      "student": "なし"
+      "student": "なし",
+      "contacted": "",
+      "deadline": "",
+      "waiting": false
     },
     {
       "id": "kosen-forum-2027",
@@ -583,7 +712,10 @@
       "status": "未問合せ／高専教職員が一堂に会する",
       "contact": "国立高等専門学校機構",
       "url": "https://www.kosen-k.go.jp/company/joho_symposium",
-      "student": "なし"
+      "student": "なし",
+      "contacted": "",
+      "deadline": "",
+      "waiting": false
     },
     {
       "id": "pesj-national",
@@ -596,7 +728,10 @@
       "status": "未問合せ",
       "contact": "日本物理教育学会",
       "url": "https://www.pesj.jp/",
-      "student": "なし"
+      "student": "なし",
+      "contacted": "",
+      "deadline": "",
+      "waiting": false
     },
     {
       "id": "fit-2027",
@@ -609,7 +744,10 @@
       "url": "https://www.ipsj.or.jp/index.html",
       "grade": "大",
       "subject": "情報",
-      "student": "なし"
+      "student": "なし",
+      "contacted": "",
+      "deadline": "",
+      "waiting": false
     }
   ]
 }
