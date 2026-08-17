@@ -1,6 +1,6 @@
 {
   "updated": "2026-08-17",
-  "updated_at": "8/17 14:13",
+  "updated_at": "8/17 17:16",
   "events": [
     {
       "id": "sss2026",
@@ -235,7 +235,7 @@
       "name": "第10回 教育セミナー in おかやま",
       "venue": "岡山コンベンションセンター（岡山駅西口）",
       "booth": "あり（例年40社規模・協賛はラインズオカヤマ）",
-      "status": "★残1枠・早いもの勝ち／出展料を照会中（8/17返信）",
+      "status": "★残1枠／ラインズオカヤマ様からの連絡待ち。青木様より状況確認あり（8/17）",
       "contact": "JAPET&CEC 青木様／協賛 株式会社ラインズオカヤマ",
       "url": "https://www.japet.or.jp/national-semi/main/",
       "grade": "小・中・高",
@@ -244,7 +244,7 @@
       "contacted": "2026-08-17",
       "deadline": "2026-08-31",
       "waiting": true,
-      "memo": "8/17 青木様より「残1枠・早いもの勝ち」。8月末までに全出展社のレイアウト決定。出展料を照会し、金額判明後 当日中に可否を返答すると伝達済み。過去回は40〜50社規模・端末メーカー中心でIoT教材は不在。来場は教員・教育委員会・教員志望の学生。参加無料"
+      "memo": "8/17 青木様より「残1枠・早いもの勝ち」。8月末までに全出展社のレイアウト決定。出展料を照会し、金額判明後 当日中に可否を返答すると伝達済み。8/17 青木様より「ラインズオカヤマ様から連絡は来たか」と確認あり→未着なら要返信。過去回は40〜50社規模・端末メーカー中心でIoT教材は不在。来場は教員・教育委員会・教員志望の学生。参加無料"
     },
     {
       "id": "edix-kansai-2026",
@@ -269,16 +269,16 @@
       "name": "Educational Solution Seminar さいたま市",
       "venue": "さいたま市内",
       "booth": "あり",
-      "status": "協賛企業へ確認中（8/17 青木様より進行中の連絡）",
+      "status": "出展不可（申込終了・8/17 青木様より回答）",
       "contact": "JAPET&CEC 青木様",
       "url": "https://www.japet.or.jp/national-semi/main/",
-      "memo": "8/15返信。打合せ候補8/20・8/21 13-15時を提示",
+      "memo": "8/17 協賛企業に確認いただいたが、既に出展申込は終了とのこと。次回に向けて早めの照会が必要",
       "grade": "小・中・高",
       "subject": "ICT全般",
       "student": "なし",
       "contacted": "2026-08-17",
       "deadline": "",
-      "waiting": true
+      "waiting": false
     },
     {
       "id": "sanfair-saga-2026",
@@ -492,6 +492,23 @@
       "contacted": "",
       "deadline": "",
       "waiting": false
+    },
+    {
+      "id": "ess-tohoku-2026",
+      "date": "2026/12/25",
+      "name": "Educational Solution Seminar in 東北",
+      "venue": "仙台市内（予定）",
+      "grade": "小・中・高",
+      "subject": "ICT全般",
+      "student": "なし",
+      "booth": "あり（青木様経由で出展検討可）",
+      "status": "★出展検討可／青木様へ連絡すれば話を進められる",
+      "contact": "JAPET&CEC 青木様",
+      "url": "https://www.japet.or.jp/national-semi/main/",
+      "contacted": "",
+      "deadline": "",
+      "waiting": false,
+      "memo": "8/17 青木様より案内。さいたまが不可となった代わりの候補。JSTE全国大会も仙台のため東北への2回目の訪問になる"
     },
     {
       "id": "vex-japan",
