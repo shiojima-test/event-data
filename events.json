@@ -1,6 +1,6 @@
 {
   "updated": "2026-08-17",
-  "updated_at": "8/17 10:19",
+  "updated_at": "8/17 10:32",
   "events": [
     {
       "id": "sss2026",
@@ -154,15 +154,15 @@
       "name": "日本教育工学会 2026年秋季全国大会",
       "venue": "札幌市教育文化会館",
       "booth": "あり（通年募集）",
-      "status": "出展できる可能性あり／要問合せ",
+      "status": "8/13に企業協賛フォームより照会済／返答待ち",
       "contact": "日本教育工学会 大会事務局",
       "url": "https://www.jset.gr.jp/taikai49/",
       "grade": "小・中・高",
       "subject": "教育工学",
       "student": "なし",
-      "contacted": "",
+      "contacted": "2026-08-13",
       "deadline": "",
-      "waiting": false
+      "waiting": true
     },
     {
       "id": "jsse-50",
@@ -234,7 +234,7 @@
       "name": "第10回 教育セミナー in おかやま",
       "venue": "岡山コンベンションセンター（岡山駅西口）",
       "booth": "あり（例年40社規模・協賛はラインズオカヤマ）",
-      "status": "★残1枠・早いもの勝ち／他1社が検討中。至急返答が必要",
+      "status": "★残1枠・早いもの勝ち／出展料を照会中（8/17返信）",
       "contact": "JAPET&CEC 青木様／協賛 株式会社ラインズオカヤマ",
       "url": "https://www.japet.or.jp/national-semi/main/",
       "grade": "小・中・高",
@@ -242,8 +242,8 @@
       "student": "なし",
       "contacted": "2026-08-17",
       "deadline": "2026-08-31",
-      "waiting": false,
-      "memo": "8/17 青木様より「残1枠・早いもの勝ち」。8月末までに全出展社のレイアウト決定。来場は教員と教育委員会。参加無料。過去回は端末メーカー中心でIoT教材メーカーは不在。出展料は未確認"
+      "waiting": true,
+      "memo": "8/17 青木様より「残1枠・早いもの勝ち」。8月末までに全出展社のレイアウト決定。出展料を照会し、金額判明後 当日中に可否を返答すると伝達済み。過去回は40〜50社規模・端末メーカー中心でIoT教材は不在。来場は教員・教育委員会・教員志望の学生。参加無料"
     },
     {
       "id": "edix-kansai-2026",
@@ -545,15 +545,15 @@
       "name": "日本教育工学会 2027年春季全国大会",
       "venue": "関西学院大学",
       "booth": "あり（通年募集）",
-      "status": "出展できる可能性あり／要問合せ",
+      "status": "8/13に企業協賛フォームより照会済／返答待ち",
       "contact": "日本教育工学会 大会事務局",
       "url": "https://www.jset.gr.jp/annual/annual-27s/",
       "grade": "小・中・高",
       "subject": "教育工学",
       "student": "なし",
-      "contacted": "",
+      "contacted": "2026-08-13",
       "deadline": "",
-      "waiting": false
+      "waiting": true
     },
     {
       "id": "ipsj-89",
