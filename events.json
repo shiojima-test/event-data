@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-16",
-  "updated_at": "8/16 20:37",
+  "updated": "2026-08-17",
+  "updated_at": "8/17 10:19",
   "events": [
     {
       "id": "sss2026",
@@ -232,17 +232,18 @@
       "id": "japet-okayama-2026",
       "date": "2026/10/9-10",
       "name": "第10回 教育セミナー in おかやま",
-      "venue": "岡山県内",
-      "booth": "協賛企業と調整中",
-      "status": "8/17以降に可否の連絡あり（青木様より返信済）",
-      "contact": "JAPET&CEC 青木様",
+      "venue": "岡山コンベンションセンター（岡山駅西口）",
+      "booth": "あり（例年40社規模・協賛はラインズオカヤマ）",
+      "status": "★残1枠・早いもの勝ち／他1社が検討中。至急返答が必要",
+      "contact": "JAPET&CEC 青木様／協賛 株式会社ラインズオカヤマ",
       "url": "https://www.japet.or.jp/national-semi/main/",
       "grade": "小・中・高",
       "subject": "ICT全般",
       "student": "なし",
-      "contacted": "2026-08-15",
-      "deadline": "2026-08-17",
-      "waiting": true
+      "contacted": "2026-08-17",
+      "deadline": "2026-08-31",
+      "waiting": false,
+      "memo": "8/17 青木様より「残1枠・早いもの勝ち」。8月末までに全出展社のレイアウト決定。来場は教員と教育委員会。参加無料。過去回は端末メーカー中心でIoT教材メーカーは不在。出展料は未確認"
     },
     {
       "id": "edix-kansai-2026",
@@ -267,14 +268,14 @@
       "name": "Educational Solution Seminar さいたま市",
       "venue": "さいたま市内",
       "booth": "あり",
-      "status": "出展を依頼済／協賛企業へ確認中",
+      "status": "協賛企業へ確認中（8/17 青木様より進行中の連絡）",
       "contact": "JAPET&CEC 青木様",
       "url": "https://www.japet.or.jp/national-semi/main/",
       "memo": "8/15返信。打合せ候補8/20・8/21 13-15時を提示",
       "grade": "小・中・高",
       "subject": "ICT全般",
       "student": "なし",
-      "contacted": "2026-08-15",
+      "contacted": "2026-08-17",
       "deadline": "",
       "waiting": true
     },
