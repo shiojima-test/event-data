@@ -1,6 +1,6 @@
 {
   "updated": "2026-08-17",
-  "updated_at": "8/17 12:06",
+  "updated_at": "8/17 12:37",
   "events": [
     {
       "id": "sss2026",
@@ -153,16 +153,17 @@
       "date": "2026/9/26-27",
       "name": "日本教育工学会 2026年秋季全国大会",
       "venue": "札幌市教育文化会館",
-      "booth": "あり（通年募集）",
-      "status": "8/13に企業協賛フォームより照会済／返答待ち",
-      "contact": "日本教育工学会 大会事務局",
+      "booth": "あり（秋大会のみ・企業展示と広告）",
+      "status": "本年は締切済で申込不可／次回は2027年秋大会",
+      "contact": "内田洋行 事業企画部 宇多清二様 seijiuda@uchida.co.jp／090-5320-3813",
       "url": "https://www.jset.gr.jp/taikai49/",
       "grade": "小・中・高",
       "subject": "教育工学",
       "student": "なし",
       "contacted": "2026-08-13",
       "deadline": "",
-      "waiting": true
+      "waiting": false,
+      "memo": "8/17回答。企業展示は秋大会のみ。春大会は企業展示なし。本年秋（札幌）は締切超過。協賛の取りまとめは内田洋行"
     },
     {
       "id": "jsse-50",
@@ -545,16 +546,17 @@
       "date": "2027/3/6-7",
       "name": "日本教育工学会 2027年春季全国大会",
       "venue": "関西学院大学",
-      "booth": "あり（通年募集）",
-      "status": "8/13に企業協賛フォームより照会済／返答待ち",
-      "contact": "日本教育工学会 大会事務局",
+      "booth": "なし（春大会は企業展示を受け付けていない）",
+      "status": "企業展示なし／情報収集のみ",
+      "contact": "内田洋行 事業企画部 宇多清二様 seijiuda@uchida.co.jp",
       "url": "https://www.jset.gr.jp/annual/annual-27s/",
       "grade": "小・中・高",
       "subject": "教育工学",
       "student": "なし",
       "contacted": "2026-08-13",
       "deadline": "",
-      "waiting": true
+      "waiting": false,
+      "memo": "8/17回答。春大会は企業展示を実施していない"
     },
     {
       "id": "ipsj-89",
@@ -750,6 +752,23 @@
       "contacted": "",
       "deadline": "",
       "waiting": false
+    },
+    {
+      "id": "jset-2027a",
+      "date": "2027/9月（予定）",
+      "name": "日本教育工学会 2027年秋季全国大会",
+      "venue": "未定（2026年は札幌）",
+      "grade": "小・中・高",
+      "subject": "教育工学",
+      "student": "なし",
+      "booth": "あり（企業展示・広告）",
+      "status": "未問合せ／次に出展できるのはこの回。募集開始時の案内を依頼する",
+      "contact": "内田洋行 事業企画部 宇多清二様 seijiuda@uchida.co.jp／090-5320-3813",
+      "url": "https://www.jset.gr.jp/",
+      "contacted": "",
+      "deadline": "",
+      "waiting": false,
+      "memo": "企業展示は秋大会のみ。協賛の取りまとめは内田洋行。募集要項は宇多様より受領済み"
     }
   ]
 }
