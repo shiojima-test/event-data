@@ -1,6 +1,6 @@
 {
   "updated": "2026-08-17",
-  "updated_at": "8/17 10:35",
+  "updated_at": "8/17 10:58",
   "events": [
     {
       "id": "sss2026",
@@ -350,15 +350,16 @@
       "name": "青少年のための科学の祭典 ひたちなか大会",
       "venue": "ひたちなか市総合体育館",
       "booth": "あり（体験型ブース）",
-      "status": "8/14に照会メール送信／返答待ち",
+      "status": "★辞退枠が発生・特別にフォーム開放／8/21までに申込。実行委員会で協議",
       "contact": "saiten_hitachinaka@yahoo.co.jp",
       "url": "https://kagaku.npo-nakanaka.org/",
       "grade": "小・中",
       "subject": "科学全般",
       "student": "なし",
-      "contacted": "2026-08-14",
-      "deadline": "",
-      "waiting": true
+      "contacted": "2026-08-17",
+      "deadline": "2026-08-21",
+      "waiting": false,
+      "memo": "7月上旬に申込終了・出展団体確定済だったが辞退団体が発生。特別にフォームを開放いただき8/21(金)まで申込可能。申込後に実行委員会で協議。出展内容を審査される形。申込フォームURLと資料は別便で送付予定"
     },
     {
       "id": "ciec-hokkaido-2026",
