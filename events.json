@@ -1,22 +1,23 @@
 {
   "updated": "2026-08-18",
-  "updated_at": "8/18 08:59",
+  "updated_at": "8/18 10:15",
   "events": [
     {
       "id": "sss2026",
       "date": "2026/8/19-21",
       "name": "情報教育シンポジウム SSS2026",
       "venue": "広島大学 霞キャンパス＋オンライン",
-      "booth": "なし",
-      "status": "見学のみ／SSS2027の展示枠を照会中（8/15送信）",
-      "contact": "情報処理学会 sig@ipsj.or.jp",
+      "booth": "なし（例年 企業展示を実施していない）",
+      "status": "企業展示なし（8/18回答）／SSS2027での実施は来年度の実行委員会で検討",
+      "contact": "情報処理学会 研究部門 渡辺未果様 m_watanabe@ipsj.or.jp",
       "url": "https://www.ipsj.or.jp/kenkyukai/event/sss2026.html",
       "grade": "高",
       "subject": "情報",
       "student": "なし",
       "contacted": "2026-08-15",
       "deadline": "",
-      "waiting": true
+      "waiting": false,
+      "memo": "8/18 情報処理学会 研究部門より回答。SSSでは例年 企業展示を実施していない。SSS2027での実施は来年度の実行委員会で検討予定。実施が決まればSSS2027のWebサイトに募集情報が掲載される。※第89回全国大会の展示コーナーについては別窓口（事業部門）で回答待ち"
     },
     {
       "id": "ess-akihabara-2026",
@@ -583,7 +584,7 @@
       "name": "情報処理学会 第89回全国大会",
       "venue": "名城大学 天白キャンパス（名古屋）",
       "booth": "あり（企業・大学・団体の展示コーナー）",
-      "status": "8/15に照会メール送信／返答待ち",
+      "status": "8/15に照会メール送信／事業部門からの返答待ち（研究部門はSSSのみ回答済）",
       "contact": "情報処理学会 事業部門 ipsjtaikai@ipsj.or.jp",
       "url": "https://www.ipsj.or.jp/event/taikai/89/index.html",
       "grade": "中・高・大",
