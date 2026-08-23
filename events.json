@@ -1,7 +1,41 @@
 {
   "updated": "2026-08-24",
-  "updated_at": "8/24 00:34",
+  "updated_at": "8/24 00:36",
   "events": [
+    {
+      "id": "kibo-rpc-7",
+      "date": "2026/7/15-9/30（募集）",
+      "name": "第7回「きぼう」ロボットプログラミング競技会（Kibo-RPC）",
+      "venue": "オンライン＋ISS",
+      "grade": "小・中・高・大",
+      "subject": "宇宙・プログラミング",
+      "student": "あり 低学年の部（小・中学生）／高学年の部（高校生〜大学院生）",
+      "booth": "なし（生徒の参加型）",
+      "status": "未問合せ／参加チーム募集中（〜9/30）",
+      "contact": "JAXA",
+      "url": "https://www.jaxa.jp/",
+      "contacted": "",
+      "deadline": "2026-09-30",
+      "waiting": false,
+      "memo": "JAXA主催。ISS内のロボットをプログラミングで動かす競技。募集期間 2026/7/15〜9/30"
+    },
+    {
+      "id": "space-harvest",
+      "date": "2026/7/15-2027/4/30（募集）",
+      "name": "Space Harvest Ideathon（JAXA）",
+      "venue": "オンライン",
+      "grade": "高・大",
+      "subject": "宇宙・食料生産",
+      "student": "あり 高校生の部／大学生の部",
+      "booth": "なし（生徒の応募型）",
+      "status": "未問合せ／募集中",
+      "contact": "JAXA",
+      "url": "https://www.jaxa.jp/",
+      "contacted": "",
+      "deadline": "2027-04-30",
+      "waiting": false,
+      "memo": "宇宙での食料生産に関するアイデアを募集。What to Grow（種子）とHow to Grow（栽培方法）の2種"
+    },
     {
       "id": "sss2026",
       "date": "2026/8/19-21",
@@ -232,6 +266,23 @@
       "contacted": "",
       "deadline": "",
       "waiting": false
+    },
+    {
+      "id": "space-koshien",
+      "date": "2026/9-11月（地方大会）",
+      "name": "宇宙甲子園（缶サット・ロケット・気球・天測の4部門）",
+      "venue": "全国の地方大会＋全国大会",
+      "grade": "高",
+      "subject": "宇宙・センサ計測",
+      "student": "あり 高校生が設計・製作・実験・発表をすべて行う競技会",
+      "booth": "協賛制／地方大会の主催団体としての参画も可能",
+      "status": "未問合せ／缶サット部門はセンサとマイコンでデータ取得。スクーミーと直結",
+      "contact": "宇宙甲子園実行委員会 事務局",
+      "url": "http://www.space-koshien.com/",
+      "contacted": "",
+      "deadline": "",
+      "waiting": false,
+      "memo": "缶サット部門は2008年開始・のべ403チーム。空き缶サイズの模擬衛星をロケットで350mまで打上げ、放出・落下・着地の過程でセンサとマイコンによりデータを取得する競技。「定められた技能」ではなく独創性（coolさ）を競う。事前プレゼン・打上実験・事後プレゼンで審査。地方大会は全国各地で9〜11月（2027年度は10〜12月に変更）。全国大会の優勝校は国際大会ARLISSまたはESA主催Cansat Challengeへの推薦。1校1チーム・生徒4名＋指導教員1名。【重要】地方大会の主催を希望する団体・機関は事務局に連絡すれば運営の技術サポートも受けられる。協賛企業にスイッチサイエンス、植松電機、ANA、サントリー食品などが名を連ねる。2026年度ルールは3月末公開予定"
     },
     {
       "id": "japet-okayama-2026",
@@ -516,6 +567,23 @@
       "memo": "8/17 青木様より案内があったが見送りを決定"
     },
     {
+      "id": "jaxa-edu-symposium",
+      "date": "2026/12月頃（予定）",
+      "name": "宇宙教育シンポジウム（JAXA宇宙教育センター）",
+      "venue": "対面＋オンライン",
+      "grade": "小・中・高",
+      "subject": "宇宙・STEAM",
+      "student": "なし",
+      "booth": "ポスター発表の募集あり",
+      "status": "未問合せ／宇宙教育活動に関するポスター発表を募集している",
+      "contact": "JAXA宇宙教育センター",
+      "url": "https://edu.jaxa.jp/",
+      "contacted": "",
+      "deadline": "",
+      "waiting": false,
+      "memo": "2025年度は宇宙教育センター設立20周年として開催。宇宙教育活動に関するポスター発表を募集していた"
+    },
+    {
       "id": "vex-japan",
       "date": "2026-2027（通年）",
       "name": "VEX Robotics 競技会（日本大会）",
@@ -629,6 +697,23 @@
       "contacted": "",
       "deadline": "",
       "waiting": false
+    },
+    {
+      "id": "spexa-2027",
+      "date": "2027/5月（予定）",
+      "name": "SPEXA 国際 宇宙ビジネス展",
+      "venue": "東京ビッグサイト",
+      "grade": "大・社会人",
+      "subject": "宇宙ビジネス",
+      "student": "なし",
+      "booth": "あり（商業展示会）",
+      "status": "優先度は低い／完全にビジネス向けで教育の文脈ではない",
+      "contact": "RX Japan合同会社",
+      "url": "https://www.spexa.jp/",
+      "contacted": "",
+      "deadline": "",
+      "waiting": false,
+      "memo": "RX Japan主催（EDIXと同じ運営会社）。JAXA協力。宇宙戦略基金の採択企業が集まる。教育向けではない"
     },
     {
       "id": "kosen-fes-2027",
@@ -826,6 +911,23 @@
       "deadline": "",
       "waiting": false,
       "memo": "第50回の窓口は東京大学 川越至桜先生。募集開始時に年会担当委員会より案内が届く予定"
+    },
+    {
+      "id": "cosmic-college",
+      "date": "2026年度（通年）",
+      "name": "コズミックカレッジ（JAXA宇宙教育センター）",
+      "venue": "全国・主催者が任意に開催",
+      "grade": "小・中・高",
+      "subject": "宇宙・STEAM",
+      "student": "なし（小中学生向けの体験プログラム）",
+      "booth": "★スクーミーが主催者として登録し開催できる",
+      "status": "★要検討／2026年度の地域主催者登録・イベント登録の受付が開始済み",
+      "contact": "JAXA宇宙教育センター",
+      "url": "https://edu.jaxa.jp/activities/cosmic/",
+      "contacted": "",
+      "deadline": "",
+      "waiting": false,
+      "memo": "JAXA宇宙教育センターの体験型プログラム。地域の団体・民間企業が主催者として登録し開催できる。JAXAは社会教育団体や民間企業との共同事業として実施しており、企業の参画例あり。高校生までを対象に年齢層別のコースを設定。観察・実験・ものづくりを通じて科学的な見方を学ぶ。出展料を払ってブースに立つのではなく、スクーミーが主催者側に回れる点が他と異なる。カインズフェスタ・ひたちなかの体験型ワークショップを宇宙教育の文脈で位置づけられる"
     }
   ]
 }
