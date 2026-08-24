@@ -1,6 +1,6 @@
 {
   "updated": "2026-08-24",
-  "updated_at": "8/24 07:46",
+  "updated_at": "8/24 18:09",
   "events": [
     {
       "id": "kibo-rpc-7",
@@ -654,7 +654,7 @@
       "name": "情報処理学会 第89回全国大会",
       "venue": "名城大学 天白キャンパス（名古屋）",
       "booth": "あり（1スポンサー1ブース・会員/非会員の区別なし）",
-      "status": "★出展の方針を決定／募集開始（10〜12月頃）を待って申込。案内を依頼済み",
+      "status": "★出展予定／募集開始時に案内をいただける（8/23回答）。中高生コンテストの協賛は別枠で募集中",
       "contact": "情報処理学会 事務局 神田様 ipsjtaikai@ipsj.or.jp／jigyo@ipsj.or.jp",
       "url": "https://www.ipsj.or.jp/event/taikai/89/index.html",
       "grade": "中・高・大",
@@ -697,6 +697,23 @@
       "contacted": "",
       "deadline": "",
       "waiting": false
+    },
+    {
+      "id": "chukosei-9",
+      "date": "2027/3/6",
+      "name": "第9回 中高生情報学研究コンテスト",
+      "venue": "名城大学 天白キャンパス（第89回全国大会と同会場）",
+      "grade": "中・高",
+      "subject": "情報",
+      "student": "あり 中高生のポスター発表（本体が生徒の発表会）",
+      "booth": "協賛1口33,000円（税込）／5口以上で会場出展も相談可",
+      "status": "★協賛を検討／申込締切 2026年12月4日",
+      "contact": "情報処理学会 事業部門 jigyo@ipsj.or.jp／TEL 03-3518-8373",
+      "url": "https://sites.google.com/view/89postersession/",
+      "contacted": "",
+      "deadline": "2026-12-04",
+      "waiting": false,
+      "memo": "2019年から開催。情報学分野で研究する中高生に全国的な発表の場を与え、優れた研究を表彰する。【協賛】1口33,000円（税込）。特典＝①Webページへのロゴ表示 ②ブロック大会・全国大会の会場とオンラインツール上でのロゴ表示 ③全国大会会場の「ご自由にお取り下さい」コーナーへの資料・パンフレット・グッズ陳列（1口につき1点50〜100部程度）。5口以上（165,000円）で会場での出展も相談可。申込締切2026/12/4。それ以降はブロック大会での特典が提供されない。協賛のお願い（PDF）https://www.ipsj.or.jp/event/taikai/89/89PosterSession/img/89chukosei_sponser.pdf ／申込 https://www.ipsj.or.jp/event/taikai/89/89PosterSession/form/89poster_appli-sponsor.html"
     },
     {
       "id": "spexa-2027",
