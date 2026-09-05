@@ -1,6 +1,6 @@
 {
   "updated": "2026-09-05",
-  "updated_at": "2026-09-05T08:59:40+09:00",
+  "updated_at": "2026-09-05T09:00:38+09:00",
   "events": [
     {
       "id": "kibo-rpc-7",
@@ -856,16 +856,16 @@
       "name": "PCカンファレンス 教育・ITフェア",
       "venue": "未定（2026年は東洋大学 赤羽台）",
       "booth": "あり（3タイプ・机180cm＋バックパネル）",
-      "status": "出展可能／募集開始の案内を依頼済み。出展料と入会費を照会中",
+      "status": "出展可能／8/16に山口様より回答受領（返信待ちではない）。未回答は2027年の募集開始時期のみ。募集開始時に案内をもらう約束を取り付ける",
       "contact": "CIEC事務局 山口剛様 yamaguchi.tsuyoshi@univ.coop",
       "url": "https://conference.ciec.or.jp/overview/",
       "grade": "中・高・大",
       "subject": "情報",
-      "memo": "1ブース幅180cm・電源タップ・無線LANあり。会員のみミニプレゼン可。8/16に出展料とCIEC入会費を照会／2026年大会 論文集 pcc056 にスクーミーを使った研究が掲載 https://conference.ciec.or.jp/pdf/2026pcc/pcc056.pdf",
+      "memo": "【8/16 回答受領】山口剛様（2026/2着任）より全項目に回答。①2027年の募集開始時期＝明示なし、2026年の情報を参照とのこと（実質未回答／要再確認）②出展料・タイプ＝2026年の募集ページ参照、変更の可能性あり https://conference.ciec.or.jp/2026pcc/program/fair/f-application.html ③CIEC会員と非会員で出展条件の差はなし。ただしミニプレゼンは会員のみ ④全国大会の1ブース＝横幅1800mm・電源タップ準備あり ⑤北海道大会は企業ブースなし ⑥九州大会は実行委員会へ直接。1ブース幅180cm・電源タップ・無線LANあり。会員のみミニプレゼン可。8/16に出展料とCIEC入会費を照会／2026年大会 論文集 pcc056 にスクーミーを使った研究が掲載 https://conference.ciec.or.jp/pdf/2026pcc/pcc056.pdf",
       "student": "あり U-18発表／2026年大会の論文集にスクーミー使用の研究が掲載",
       "contacted": "2026-08-16",
       "deadline": "",
-      "waiting": true
+      "waiting": false
     },
     {
       "id": "zenkojoken-20",
