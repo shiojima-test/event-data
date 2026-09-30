@@ -2,7 +2,7 @@
 
 ## 置き場所
 - データは events.json。各イベントの `todo` が朝のまとめの元になる。書くのは Claude だけ
-- 朝のまとめは shiojima-test/festa-carrot の gas/exhibit.js（キャロットの定時処理が8〜11時台に1日1回実行）。投稿先は #project-展示（Exhibition Notify）
+- 朝のまとめは shiojima-test/festa-carrot の gas/exhibit.js（キャロットの定時処理が8〜11時台に1日1回実行）。投稿先はキャロットのチャンネル（#project-展示 は2026-09-30で廃止）
 - 出展先リストのシートは events.json を写すだけ。シートは直さない
 
 ## todo の書き方
