@@ -990,6 +990,177 @@
     "state": "open",
     "what": "申し込むか決め、申込書を長野様へ送る"
    }
+  },
+  {
+   "id": "ogaki-mmf-2026",
+   "date": "2026/12/5-6",
+   "name": "Ogaki Mini Maker Faire 2026",
+   "venue": "ソフトピアジャパン・センタービル（岐阜県大垣市）",
+   "grade": "小・中・高",
+   "subject": "科学・ものづくり体験",
+   "student": "",
+   "booth": "出展の受付は終了／協賛は募集中（企業1口30,000円、3口以上シルバー。協賛者にスポンサー出展・プレゼンの機会）",
+   "status": "協賛なら申込可（10/21確認）",
+   "contact": "IAMAS",
+   "url": "https://www.iamas.ac.jp/ommf2026/",
+   "contacted": "",
+   "memo": "【10/21】出展者の選考結果は10月末通知。協賛で出展枠を得られる可能性。",
+   "todo": {
+    "state": "open",
+    "what": "協賛（3口9万円）で出展するか決める"
+   }
+  },
+  {
+   "id": "nijin-expo-2026",
+   "date": "2026/11/21-22",
+   "name": "NIJIN教育万博2026",
+   "venue": "DMM本社（六本木グランドタワー24F）＋メタバース",
+   "grade": "小・中・高",
+   "subject": "科学・ものづくり体験",
+   "student": "",
+   "booth": "子どもブース（小中高生の出展）は2次募集中／企業出展の募集は記載なし",
+   "status": "企業出展の可否を要問合せ（10/21確認）",
+   "contact": "株式会社NIJIN",
+   "url": "https://expo.nijin.co.jp/",
+   "contacted": "",
+   "memo": "【10/21】高校生クルーが「子どもブース」として出る形なら入れる可能性。",
+   "todo": {
+    "state": "open",
+    "what": "企業出展・高校生のブース出展ができるか問い合わせる"
+   }
+  },
+  {
+   "id": "osaka-jikken-2027",
+   "date": "2027/1/31",
+   "name": "科学実験大会2027（大阪市立科学館）",
+   "venue": "大阪市立科学館",
+   "grade": "小・中・高",
+   "subject": "科学・ものづくり体験",
+   "student": "",
+   "booth": "出演者募集（20分の実験ショー・6組程度・書類選考・出演料なし）",
+   "status": "募集中・締切11/29 9:00（10/21確認）",
+   "contact": "大阪市立科学館",
+   "url": "https://www.sci-museum.jp/event/",
+   "contacted": "",
+   "memo": "【10/21】ブースではなくステージ型。ローバーの実演を20分の実験ショーにできる。",
+   "todo": {
+    "state": "open",
+    "what": "応募するか決める（締切11/29）"
+   }
+  },
+  {
+   "id": "jaas-sciencefes-2027",
+   "date": "2027/2/13-14",
+   "name": "サイエンスフェス2027（日本科学振興協会）",
+   "venue": "国連大学本部（東京・青山）",
+   "grade": "小・中・高",
+   "subject": "科学・ものづくり体験",
+   "student": "",
+   "booth": "出展の募集時期・費用は未発表",
+   "status": "開催決定のみ・募集は未発表（10/21確認）",
+   "contact": "日本科学振興協会（JAAS）",
+   "url": "https://jaas.science/information/announce_science-festival2027/",
+   "contacted": "",
+   "memo": "",
+   "todo": {
+    "state": "open",
+    "what": "出展募集の開始を確認する"
+   }
+  },
+  {
+   "id": "minato-sf-2027",
+   "date": "2027/3月（例年）",
+   "name": "みなとサイエンスフェスタ2027",
+   "venue": "港区立みなと科学館",
+   "grade": "小・中・高",
+   "subject": "科学・ものづくり体験",
+   "student": "",
+   "booth": "企業・大学・NPOが協力団体としてブースを出す形（2026年は3/7-8）",
+   "status": "募集案内なし・要問合せ（03-6381-5041）",
+   "contact": "港区立みなと科学館",
+   "url": "https://sp.minato-kagaku.tokyo/msf/",
+   "contacted": "",
+   "memo": "",
+   "todo": {
+    "state": "open",
+    "what": "2027年の出展団体の募集を問い合わせる"
+   }
+  },
+  {
+   "id": "jpw-2027",
+   "date": "2027/1月（例年・未発表）",
+   "name": "ジュニア・プログラミング・ワールド",
+   "venue": "札幌コンベンションセンター（2026年）",
+   "grade": "小・中・高",
+   "subject": "科学・ものづくり体験",
+   "student": "",
+   "booth": "ワークショップ30件規模（2026年1/17-18）。出展の募集方法は未掲載",
+   "status": "2027年の開催は未発表（10/21確認）",
+   "contact": "北海道新聞社 営業局（運営）",
+   "url": "https://j-p-w.jp/jpw2026/",
+   "contacted": "",
+   "memo": "",
+   "todo": {
+    "state": "open",
+    "what": "2027年の開催とワークショップ出展の可否を問い合わせる"
+   }
+  },
+  {
+   "id": "edix-tokyo-2027",
+   "date": "2027/5/12-14",
+   "name": "EDIX東京2027",
+   "venue": "東京ビッグサイト 西展示棟",
+   "grade": "小・中・高",
+   "subject": "科学・ものづくり体験",
+   "student": "",
+   "booth": "出展企業の募集開始（料金は資料請求）",
+   "status": "募集中（10/21確認）",
+   "contact": "EDIX事務局",
+   "url": "https://www.edix-expo.jp/tokyo/ja-jp.html",
+   "contacted": "",
+   "memo": "",
+   "todo": {
+    "state": "open",
+    "what": "資料を請求して費用を確かめる"
+   }
+  },
+  {
+   "id": "hitachi-saiten-26",
+   "date": "2026/11/22",
+   "name": "青少年のための科学の祭典 日立大会（第26回）",
+   "venue": "日立シビックセンター",
+   "grade": "小・中・高",
+   "subject": "科学・ものづくり体験",
+   "student": "",
+   "booth": "出展の受付は終了（8/30）",
+   "status": "来年度狙い",
+   "contact": "日立大会事務局",
+   "url": "https://saiten-hitachi.sakura.ne.jp/wp/",
+   "contacted": "",
+   "memo": "",
+   "todo": {
+    "state": "done",
+    "what": "今年は受付終了"
+   }
+  },
+  {
+   "id": "nara-saiten-26",
+   "date": "2026/11/15",
+   "name": "青少年のための科学の祭典 奈良大会",
+   "venue": "奈良教育大学",
+   "grade": "小・中・高",
+   "subject": "科学・ものづくり体験",
+   "student": "",
+   "booth": "出展の締切は9/4で終了",
+   "status": "来年度狙い",
+   "contact": "奈良大会事務局",
+   "url": "https://sites.google.com/view/ksnara/",
+   "contacted": "",
+   "memo": "",
+   "todo": {
+    "state": "done",
+    "what": "今年は受付終了"
+   }
   }
  ],
  "todo_note": "todo は Claude が書く。state＝open（未着手）/waiting（返信待ち・since=連絡日）/replied（返事あり・since=返事の日）/done（完了）/hold（保留）。due は YYYY-MM-DD。朝のまとめは festa-carrot の gas/exhibit.js が出す。手順は AGENTS.md"
